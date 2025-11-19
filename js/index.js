@@ -5234,13 +5234,7 @@ function updateOnlineHighlight() {
 
 const EXPLORE_RADAR_GENRES = [
     "流行",
-    "摇滚",
-    "古典音乐",
-    "民谣",
-    "电子",
-    "乡村",
-    "蓝调",
-    "R&B"
+    "摇滚"
 ];
 
 function pickRandomExploreGenre() {
